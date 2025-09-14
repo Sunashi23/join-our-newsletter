@@ -26,6 +26,7 @@ Deploy: [LINK](http://yomidev.github.io/newsletter/)
 
 ## 📝 Reflexión
 (Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+
 Durante este proyecto aprendí a estructurar correctamente un formulario en HTML y a darle estilos modernos usando CSS, incluyendo el uso de box-shadow, tipografías y colores consistentes.
 Una de las principales dificultades fue lograr que el diseño fuera responsivo en distintos dispositivos (desktop, tablet y móvil), pero lo solucioné utilizando media queries y ajustando tamaños de fuente y espaciados.
 Gracias a esto, entendí mejor la importancia del diseño adaptable y de mantener una experiencia de usuario limpia y clara en cualquier pantalla.
