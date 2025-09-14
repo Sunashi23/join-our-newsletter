@@ -20,7 +20,7 @@ Este proyecto consiste en hacer que una página web simple y moderna haga que lo
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: [Pega aquí tu enlace] https://github.com/Sunashi23/join-our-newsletter 
 Deploy: [LINK](http://yomidev.github.io/newsletter/)
 ---
 
